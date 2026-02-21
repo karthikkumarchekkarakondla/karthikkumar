@@ -1,4 +1,4 @@
-# Web Scraping Project
+# Web API Project
 
 ## Overview
 This project focuses on web scraping and data cleaning using Python.
